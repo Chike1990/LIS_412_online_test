@@ -8,6 +8,7 @@ font-size:35px;
 ul {
   list-style: none;
 }
+
 li {
   font-family:'Rokkitt', serif;
   font-size: 2em;
@@ -20,6 +21,7 @@ input[type=radio] {
   height: 2em;
 
 }
+
 p {
   font-family:'Rokkitt', serif;
 }
