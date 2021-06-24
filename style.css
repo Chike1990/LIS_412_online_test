@@ -45,6 +45,7 @@ margin-top: 190px;
   height: 40px;
   text-align: center;
   background-color:#cc0000;
+  cursor: pointer;
   /*clear: both;*/
   color:#fff;
   font-family:'Rokkitt', serif;
