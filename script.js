@@ -1,5 +1,5 @@
 let questions = [{
-  question: "Which of the following led to bibliographic control?",
+  question: "Which of the following necessitated bibliographic control?",
   choices: ["Information explosion", "Big data", "Mobile technology", "Cyber crime"],
   correctAnswer: 0
 }, {
